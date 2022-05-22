@@ -48,7 +48,7 @@ PrivateDL框架的流程图如上所示，其中基于关键数据集的虚拟�
 
 
 
-<img src="image/image-20220520141713391.png" alt="image-20220520141713391" width="250px" /> <img src="image/image-20220520141725614.png" alt="image-20220520141725614" width="250px" />
+<img src="image/image-20220520141713391.png" alt="image-20220520141713391" width="400px" /> <img src="image/image-20220520141725614.png" alt="image-20220520141725614" width="400px" />
 
 
 ### 3.2全局噪声降噪
@@ -59,7 +59,7 @@ PrivateDL框架的流程图如上所示，其中基于关键数据集的虚拟�
 
 实验测试了包括LeNet-5,AlexNet,ResNet-18三种网络，部分结果如下：
 
-<img src="image/image-20220520142517935.png" alt="image-20220520142517935" width="300px" /> <img src="image/image-20220520142537430.png" alt="image-20220520142537430" width="300px" />
+<img src="image/image-20220520142517935.png" alt="image-20220520142517935" width="400px" /> <img src="image/image-20220520142537430.png" alt="image-20220520142537430" width="400px" />
 
 
 
