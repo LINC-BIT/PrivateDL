@@ -4,7 +4,7 @@
 
 PrivateDL是本论文提出的一种新的差分隐私深度学习框架，该框架从本地噪声与全局噪声的角度对差分隐私深度学习中的噪声添加进行优化，从而实现减少差分隐私噪声的目的。
 
-<img src="image/image-20220520134702643.png" alt="image-20220520134702643" style="zoom:50%;" />
+<img src="image/image-20220520134702643.png" alt="image-20220520134702643" width="500px" />
 
 PrivateDL框架的流程图如上所示，其中基于关键数据集的虚拟批次大小放大算法，通过放大训练数据时的批次大小来减少全局噪声的添加，进而提高模型的精度。基于抽样的灵敏度算法则不需要进行数据的裁剪就可以实现灵敏度的计算，避免了传统的裁剪方法的一刀切式的计算灵敏度所产生的误差，进而提高了模型的精度。
 
@@ -48,13 +48,10 @@ PrivateDL框架的流程图如上所示，其中基于关键数据集的虚拟�
 
 
 
-<img src="image/image-20220520141713391.png" alt="image-20220520141713391" style="zoom:70%;" />
+<img src="image/image-20220520141713391.png" alt="image-20220520141713391" width="300px" />
 
+<img src="image/image-20220520141725614.png" alt="image-20220520141725614" width="300px" />
 
-
-<img src="image/image-20220520141725614.png" alt="image-20220520141725614" style="zoom:70%;" />
-
-<img src="image/image-20220520141736414.png" alt="image-20220520141736414" style="zoom:70%;" />
 
 ### 3.2全局噪声降噪
 
@@ -64,9 +61,9 @@ PrivateDL框架的流程图如上所示，其中基于关键数据集的虚拟�
 
 实验测试了包括LeNet-5,AlexNet,ResNet-18三种网络，部分结果如下：
 
-<img src="image/image-20220520142517935.png" alt="image-20220520142517935" style="zoom:80%;" />
+<img src="image/image-20220520142517935.png" alt="image-20220520142517935" width="300px" />
 
-<img src="image/image-20220520142537430.png" alt="image-20220520142537430" style="zoom:80%;" />
+<img src="image/image-20220520142537430.png" alt="image-20220520142537430" width="300px" />
 
 
 
