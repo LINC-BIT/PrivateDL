@@ -48,9 +48,9 @@ PrivateDL框架的流程图如上所示，其中基于关键数据集的虚拟�
 
 
 
-<img src="image/image-20220520141713391.png" alt="image-20220520141713391" width="300px" />
+<img src="image/image-20220520141713391.png" alt="image-20220520141713391" width="250px" />
 
-<img src="image/image-20220520141725614.png" alt="image-20220520141725614" width="300px" />
+<img src="image/image-20220520141725614.png" alt="image-20220520141725614" width="250px" />
 
 
 ### 3.2全局噪声降噪
