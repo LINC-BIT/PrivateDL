@@ -2,6 +2,8 @@
 
 [Accurate Differentially Private Deep Learning on the Edge](https://ieeexplore.ieee.org/document/9372811)
 
+PrivateDL是一种新颖的差分隐私深度学习框架 (PrivateDL)，该框架能够有效地减少边缘端深度学习训练时本地噪声的添加以及全局噪声的添加, 进而实现同等隐私保护程度下更高的模型精度。
+
 - [PrivateDL](#privatedl)
   - [1.介绍](#1介绍)
     - [1.1 基于抽样的灵敏度估计算法(Sampling-Based Sensitivity Estimation)](#11-基于抽样的灵敏度估计算法sampling-based-sensitivity-estimation)
